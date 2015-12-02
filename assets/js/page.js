@@ -3,6 +3,7 @@ $(document).ready(function(){
     var eggloader = new Konami(function(){
         clippy.load('Clippy', function(agent) {
             // Do anything with the loaded agent
+            agent.moveTo(150, 300);
             agent.show();
             agent.speak('It looks like you\'re getting married.\n\nWould you like help?');
             window.setInterval(function(){
