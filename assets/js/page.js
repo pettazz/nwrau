@@ -7,6 +7,10 @@ $(document).ready(function(){
             agent.speak('It looks like you\'re getting married.\n\nWould you like help?');
             window.setInterval(function(){
                 agent.animate();
+                if(Math.floor(Math.random() * 10) > 5){
+                    agent.speak('ya nervous?');
+                }
+
             }, 6000);
         });
     });
