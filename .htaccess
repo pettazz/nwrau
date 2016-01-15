@@ -6,7 +6,3 @@ Options -MultiViews -Indexes
 </Files>
 
 RewriteEngine On
-
-RewriteRule ^/?$ index.php [NC,QSA]
-
-RewriteRule ^license/?$ license.htm [NC]

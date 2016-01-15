@@ -1,0 +1,23 @@
+---
+layout: homepage
+home: true
+backgrounds:
+    - /assets/images/backgrounds/dscn43931.jpg
+---
+
+<div class="home">
+    <ul class="post-list">
+        {% assign posts = site.posts | sort:"date" %}
+        {% for post in posts %}
+        <li>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+                <div class="post-list-info">
+                    <h2 class="post-list-title">{{ post.title }}</h2>
+                </div>
+            </a>
+
+            <img src="{{ post.thumb }}" class="post-list-thumb" />
+        </li>
+        {% endfor %}
+    </ul>
+</div>

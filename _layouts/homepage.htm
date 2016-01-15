@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include loader.html %}
+
+    <main id="sb-site">
+
+        <div class="container homepage">
+            <div class="wrapper">
+                <h1>Nick and Wendy</h1>
+                <h2>August 26, 2016</h2>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="wrapper">
+                {{ content }}
+            </div>
+
+            {% include pagination.html %}
+
+            {% include next.html %}
+
+        </div>
+
+    </main>
+
+    {% include sidebar.html %}
+
+    {% include js.html %}
+
+</body>
+
+</html>
