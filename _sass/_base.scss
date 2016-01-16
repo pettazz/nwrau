@@ -123,12 +123,15 @@ a {
  */
 blockquote {
     background: $grey-color-light;
-    margin-left: -($spacing-unit / 3);
     margin-right: -($spacing-unit / 3);
-    padding: $spacing-unit / 3;
+    padding: 10px;
+    margin-top: -11px;
+    width: 580px;
+    margin-bottom: $spacing-unit / 3;
 
-    > :last-child {
-        margin-bottom: 0;
+    p {
+        text-align: right;
+        margin-bottom: 0px;
     }
 }
 
