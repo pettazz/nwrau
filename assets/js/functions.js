@@ -1,3 +1,25 @@
+/**
+ * @author Alexander Manzyuk <admsev@gmail.com>
+ * Copyright (c) 2012 Alexander Manzyuk - released under MIT License
+ * https://github.com/admsev/jquery-play-sound
+ * Usage: $.playSound('http://example.org/sound.mp3');
+**/
+
+(function($){
+
+  $.extend({
+    playSound: function(){
+      return $(
+        '<audio autoplay="autoplay" style="display:none;">'
+          + '<source src="' + arguments[0] + '" />'
+          + '<embed src="' + arguments[0] + '" hidden="true" autostart="true" loop="false" class="playSound" />'
+        + '</audio>'
+      ).appendTo('body');
+    }
+  });
+
+})(jQuery);
+
 function scrollPercentage() {
     var winTop = $(window).scrollTop(),
         docHeight = $(document).height(),
@@ -18,21 +40,43 @@ function scrollSteps(imagesNumber) {
     return steps;
 }
 
+// Returns a random integer between min (included) and max (included)
+// Using Math.round() will give you a non-uniform distribution!
+function getRandomIntInclusive(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
 $(document).ready(function(){
     // Konami loader
     var eggloader = new Konami(function(){
-        clippy.load('Clippy', function(agent) {
-            // Do anything with the loaded agent
-            agent.moveTo(150, 300);
-            agent.show();
-            agent.speak('It looks like you\'re getting married.\n\nWould you like help?');
-            window.setInterval(function(){
-                agent.animate();
-                if(Math.floor(Math.random() * 10) >= 5){
-                    agent.speak('ya nervous?');
-                }
-
-            }, 6000);
+        $('img').each(function(){
+            var rand = getRandomIntInclusive(1, 11);
+            $(this).attr('src', '/assets/images/dogs/dog' + rand + '.jpg');
         });
     });
+
+    if(window.location.href.indexOf('the-proposal') > -1){
+        var image = $('img[src="/assets/images/proposal1.JPG"]');
+
+        image.click(function(){
+            $('img.post-thumb').fadeOut('slow');
+
+            $("html, body").animate({
+                scrollTop: 0 
+            }, 3000);
+
+            image.css({
+                maxWidth: '600px'
+            })
+            .animate({
+                marginLeft: '-3300px',
+                marginTop: '-3400px',
+                width: '4000px',
+                height: '7000px',
+                maxWidth: '4000px'
+            }, 3000);
+
+            $.playSound('https://wompwompwomp.com/audio/sad-trombone.m4a');
+        });
+    }
 });
