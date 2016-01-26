@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accommodations"
-date: 2016-01-05
+date: 2015-06-01
 backgrounds:    
     - /assets/images/backgrounds/DSC_0101.JPG
     - /assets/images/backgrounds/DSC_0037.JPG

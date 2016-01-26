@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "About Noble View"
-date: 2016-01-04
+date: 2015-04-01
 backgrounds:
     - /assets/images/backgrounds/DSC_0285.JPG
     - /assets/images/backgrounds/DSC_0284.JPG
-    - /assets/images/backgrounds/dscn43931.jpg
 thumb: /assets/images/thumbnails/about-noble-view.png
 
 show_date: false

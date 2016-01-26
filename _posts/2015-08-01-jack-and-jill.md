@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jack and Jill"
-date: 2016-01-06
+date: 2015-08-01
 backgrounds:    
     - /assets/images/backgrounds/DSC_0006.JPG
     - /assets/images/backgrounds/DSC_0289.JPG

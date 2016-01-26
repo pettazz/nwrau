@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Proposal"
-date: 2016-01-02
+date: 2015-02-01
 backgrounds:
     - /assets/images/backgrounds/wide-proposal.JPG
 thumb: /assets/images/thumbnails/the-proposal.png

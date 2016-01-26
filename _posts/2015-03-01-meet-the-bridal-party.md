@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meet the Bridal Party"
-date: 2016-01-03
+date: 2015-03-01
 backgrounds:
     - /assets/images/backgrounds/DSC_0037.JPG
     - /assets/images/backgrounds/DSC_0144.JPG

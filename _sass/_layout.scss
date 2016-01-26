@@ -272,6 +272,23 @@
     }
 }
 
+.registry-list{
+    @extend %clearfix;
+    margin-bottom: 30px;
+}
+
+.registry {
+    display: block;
+    float: left;
+    margin-left: 60px;
+    > img{
+        max-width: 200px;
+    }
+
+    &.fuckin-target {
+        margin-top: 5px;
+    }
+}
 
 .post-meta {
     display: -webkit-box;
