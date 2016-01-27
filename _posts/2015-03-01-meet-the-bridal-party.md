@@ -19,7 +19,7 @@ show_categories: false
 
 ![RJ Paquet](/assets/images/rj.jpg)
 
-RJ and Wendy have been friends since they were little. They grew up on Dunne Wood Court together and have remained life-long friends. RJ lives in Edmund, Oklahoma with his dog, Jake. Rj works in finance.  
+RJ and Wendy have been friends since they were little. They grew up on Dunne Wood Court together and have remained life-long friends. RJ lives in Edmund, Oklahoma with his dog, Jake. RJ works in finance.  
 
 
 ##Abigail Bechert
