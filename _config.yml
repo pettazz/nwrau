@@ -31,11 +31,11 @@ defaults:
       values:
         reading_time: false
         # Meta
-        show_tags: true
-        show_categories: true
+        show_tags: false
+        show_categories: false
         # Social
-        share_buttons: true
-        disqus: true
+        share_buttons: false
+        disqus: false
 
 gems:
     - jekyll-feed
