@@ -22,7 +22,7 @@ Cupcake ipsum dolor sit amet gummi bears apple pie. Caramels croissant pastry. T
         <img src="/assets/images/macys_logo.png" />
     </a>
 
-    <a href="http://www.target.com/gift-registry/giftgiver?registryId=WKML--tYnHiOWjvJW4eD3g&registryType=WEDDING" target="_blank" class="registry fuckin-target">
+    <a href="http://www.target.com/gift-registry/giftgiver?registryId=WKML--tYnHiOWjvJW4eD3g" target="_blank" class="registry fuckin-target">
         <img src="/assets/images/target_logo.png" />
     </a>
 </div>
