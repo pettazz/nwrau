@@ -19,6 +19,6 @@ There will be many raffle prizes, a 50/50 raffle, delicious food, free beer, and
 
 Tickets can be purchased ahead of time or at the door for $20.
 
-Our Facebook page for the event has lots more information, please be sure to [join it here] (https://www.facebook.com/events/564726067013230/)!
+Our Facebook page for the event has lots more information, please be sure to [join it here](https://www.facebook.com/events/564726067013230/)!
 
 ![Nick and Wendy](/assets/images/raunwendy/jack-and-jill01.jpg)
