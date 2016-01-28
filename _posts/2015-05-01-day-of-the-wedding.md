@@ -9,9 +9,19 @@ backgrounds:
 thumb: /assets/images/thumbnails/day-of-wedding.jpg
 ---
 
-Cupcake ipsum dolor sit amet gummi bears apple pie. Caramels croissant pastry. Tiramisu powder liquorice jujubes donut. Bonbon dessert chocolate. Topping chupa chups brownie toffee chocolate cake biscuit liquorice. Fruitcake soufflé danish. Bear claw dragée bear claw oat cake liquorice sweet roll. Macaroon pastry lemon drops. Marshmallow pastry jelly beans chocolate gummies. Donut tiramisu jelly candy canes candy canes oat cake.
+There is ample parking at Noble View. From the parking lot it is a short walk to the Ceremony site, we will have a golf cart to help those that need assistance getting from their vehicles to the Ceremony.
 
-[Facebook](https://www.facebook.com/events/193496107671156/)
+<b>3:00 PM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ceremony
+<br>
+<b>3:45 PM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cocktail Hour
+<br>
+<b>4:45 PM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dinner
+<br>
+<b>6:00 PM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Party O'Clock
+<br>
+<b>10:00 PM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Dance
+
+Dinner will be a delicious BBQ buffet, consisting of a pig roast, BBQ chicken, roasted potatoes, baked beans, macaroni and cheese, salad, and bread.
 
 ### Gift Registries
 
