@@ -5,7 +5,7 @@ date: 2015-08-01
 backgrounds:    
     - /assets/images/backgrounds/jack-and-jill01.jpg
     - /assets/images/backgrounds/jack-and-jill02.jpg
-thumb: /assets/images/thumbnails/jack-and-jill.png
+thumb: /assets/images/thumbnails/jack-and-jill.jpg
 ---
 
 We'd love for you to attend our Jack and Jill on Saturday, April 23, 2016 at the [Marconi Club in Springfield, Massachusetts](http://www.marconiclubinc.com/ )! (Time is yet to be determined, but check back for updates!)

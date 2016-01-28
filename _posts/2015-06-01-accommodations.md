@@ -5,7 +5,7 @@ date: 2015-06-01
 backgrounds:    
     - /assets/images/backgrounds/accommodations01.jpg
     - /assets/images/backgrounds/accommodations02.jpg
-thumb: /assets/images/thumbnails/accommodations.png
+thumb: /assets/images/thumbnails/accommodations.jpg
 ---
 
 ## Hotel

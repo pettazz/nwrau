@@ -5,7 +5,7 @@ date: 2015-04-01
 backgrounds:
     - /assets/images/backgrounds/noble-view01.jpg
     - /assets/images/backgrounds/noble-view01.jpg
-thumb: /assets/images/thumbnails/about-noble-view.png
+thumb: /assets/images/thumbnails/about-noble-view.jpg
 
 show_date: false
 show_categories: false

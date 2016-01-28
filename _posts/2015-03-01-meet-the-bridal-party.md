@@ -7,7 +7,7 @@ backgrounds:
     - /assets/images/backgrounds/bridal-party02.jpg
     - /assets/images/backgrounds/bridal-party03.jpg
     - /assets/images/backgrounds/bridal-party04.jpg
-thumb: /assets/images/thumbnails/bridal-party.png
+thumb: /assets/images/thumbnails/bridal-party.jpg
 ---
 
 ##RJ Paquet
