@@ -13,8 +13,14 @@ show_date: false
 show_categories: false
 ---
 
-Bacon ipsum dolor amet biltong flank ground round, cow corned beef frankfurter rump andouille meatball drumstick sirloin picanha meatloaf. Cow landjaeger beef swine shankle strip steak t-bone tenderloin pork chop shank bacon leberkas. Rump turkey ground round pork chop ribeye shoulder. Strip steak spare ribs alcatra flank beef ribs corned beef pork chop jowl doner tri-tip ground round landjaeger biltong filet mignon.
+## New Orleans, LA
 
-We're going to space bye
+We are going to start our honeymoon off in New Orleans, spending a few nights in the French Quarter of New Orleans.
+
+## Western Caribbean Cruise
+
+We'll board the Carnival Dream in New Orleans for a 7 day Western Caribbean cruise.
+
+Our boat will be stopping in Cozumel, Mexico, Belize, and Mahogany Bay, Isle Roatan. We plan to do a tequilla tour of Mexica, explore Mayan ruins in Belize, and go zip-lining in  Mahogany Bay! We will update eveeryone with picture when we return.
 
 ![Nick and Wendy](/assets/images/raunwendy/honeymoon01.jpg)
