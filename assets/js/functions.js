@@ -38,7 +38,7 @@ $(document).ready(function(){
     }, '8085847378');
 
     if(window.location.href.indexOf('the-proposal') > -1){
-        var image = $('img[src="/assets/images/raunwendy/proposal01.png"]');
+        var image = $('img[src="/assets/images/raunwendy/proposal01.jpg"]');
 
         image.click(function(){
             $('img.post-thumb').fadeOut('slow');
