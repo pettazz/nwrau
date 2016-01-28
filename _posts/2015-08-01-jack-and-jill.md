@@ -3,12 +3,9 @@ layout: post
 title: "Jack and Jill"
 date: 2015-08-01
 backgrounds:    
-    - /assets/images/backgrounds/DSC_0006.JPG
-    - /assets/images/backgrounds/DSC_0289.JPG
+    - /assets/images/backgrounds/jack-and-jill01.jpg
+    - /assets/images/backgrounds/jack-and-jill02.jpg
 thumb: /assets/images/thumbnails/jack-and-jill.png
-
-show_date: false
-show_categories: false
 ---
 
 We'd love for you to attend our Jack and Jill on Saturday, April 23, 2016 at the [Marconi Club in Springfield, Massachusetts](http://www.marconiclubinc.com/ )! (Time is yet to be determined, but check back for updates!)
@@ -22,4 +19,4 @@ There will be many raffle prizes, a 50/50 raffle, delicious food, free beer, and
 
 Tickets can be purchased ahead of time or at the door for $20. Please look for more details on Facebook. 
 
-![Nick and Wendy](/assets/images/backgrounds/DSC_0191.JPG)
+![Nick and Wendy](/assets/images/raunwendy/jack-and-jill01.jpg)

@@ -5,8 +5,8 @@ layout: post
 title: "The Honeymoon"
 date: 2015-07-01
 backgrounds:
-    - /assets/images/backgrounds/DSC_0111-1.JPG
-    - /assets/images/backgrounds/DSC_0159.JPG
+    - /assets/images/backgrounds/honeymoon01.jpg
+    - /assets/images/backgrounds/honeymoon02.jpg
 thumb: /assets/images/thumbnails/the-honeymoon.png
 
 show_date: false
@@ -17,4 +17,4 @@ Bacon ipsum dolor amet biltong flank ground round, cow corned beef frankfurter r
 
 We're going to space bye
 
-![Nick and Wendy](/assets/images/DSC_0069-1.JPG)
+![Nick and Wendy](/assets/images/raunwendy/honeymoon01.jpg)

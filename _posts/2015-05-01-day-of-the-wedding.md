@@ -5,11 +5,8 @@ layout: post
 title: "Day of the Wedding"
 date: 2015-05-01
 backgrounds:
-    - /assets/images/backgrounds/dscn43931.jpg
+    - /assets/images/backgrounds/noble-view-main.jpg
 thumb: /assets/images/thumbnails/day-of-wedding.png
-
-show_date: false
-show_categories: false
 ---
 
 Cupcake ipsum dolor sit amet gummi bears apple pie. Caramels croissant pastry. Tiramisu powder liquorice jujubes donut. Bonbon dessert chocolate. Topping chupa chups brownie toffee chocolate cake biscuit liquorice. Fruitcake soufflé danish. Bear claw dragée bear claw oat cake liquorice sweet roll. Macaroon pastry lemon drops. Marshmallow pastry jelly beans chocolate gummies. Donut tiramisu jelly candy canes candy canes oat cake.

@@ -3,12 +3,9 @@ layout: post
 title: "Accommodations"
 date: 2015-06-01
 backgrounds:    
-    - /assets/images/backgrounds/DSC_0101.JPG
-    - /assets/images/backgrounds/DSC_0037.JPG
+    - /assets/images/backgrounds/accommodations01.jpg
+    - /assets/images/backgrounds/accommodations02.jpg
 thumb: /assets/images/thumbnails/accommodations.png
-
-show_date: false
-show_categories: false
 ---
 
 ## Hotel
