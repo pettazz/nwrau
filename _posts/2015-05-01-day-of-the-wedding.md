@@ -18,7 +18,7 @@ There is ample parking at Noble View. From the parking lot it is a short walk to
 | **4:45 PM** | Dinner |
 | **6:00 PM** | Party O'Clock |
 | **10:00 PM** | Last Dance |
-
+<br>
 Dinner will be a delicious BBQ buffet, consisting of a pig roast, BBQ chicken, roasted potatoes, baked beans, macaroni and cheese, salad, and bread.
 
 ### Gift Registries
