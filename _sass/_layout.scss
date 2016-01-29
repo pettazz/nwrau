@@ -305,9 +305,18 @@ dd{
     > img{
         max-width: 200px;
     }
+    @include media-query($xsmall) {
+        margin-left: $spacing-unit * 2;
+    }
 
     &.fuckin-target {
         margin-top: 5px;
+        @include media-query($on-palm) {
+            margin-top: 5px;
+        }
+        @include media-query($xsmall) {
+            margin-top: 50px;
+        }
     }
 }
 
