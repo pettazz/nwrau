@@ -272,6 +272,27 @@
     }
 }
 
+dl{
+    
+}
+
+dt{
+    font-weight: bold;
+    line-height: 20px;
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    width: 100px;
+}
+
+dd{
+    margin-left: 10px;
+    line-height: 20px;
+    display: block;
+    @extend %clearfix;
+}
+
 .registry-list{
     @extend %clearfix;
     margin-bottom: 30px;

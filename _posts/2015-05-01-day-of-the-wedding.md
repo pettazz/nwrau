@@ -11,15 +11,23 @@ thumb: /assets/images/thumbnails/day-of-wedding.jpg
 
 There is ample parking at Noble View. From the parking lot it is a short walk to the Ceremony site, we will have a golf cart to help those that need assistance getting from their vehicles to the Ceremony.
 
-| Time | Event |
-| --- | --- |
-| **3:00 PM** | Ceremony |
-| **3:45 PM** | Cocktail Hour |
-| **4:45 PM** | Dinner |
-| **6:00 PM** | Party O'Clock |
-| **10:00 PM** | Last Dance |
+<dl>
+    <dt>3:00 PM</dt>
+    <dd>Ceremony</dd>
 
-<br>
+    <dt>3:45 PM</dt>
+    <dd>Cocktail Hour</dd>
+
+    <dt>4:45 PM</dt>
+    <dd>Dinner</dd>
+
+    <dt>6:00 PM</dt>
+    <dd>Party O'Clock</dd>
+
+    <dt>10:00 PM</dt>
+    <dd>Last Dance</dd>
+</dl>
+
 Dinner will be a delicious BBQ buffet, consisting of a pig roast, BBQ chicken, roasted potatoes, baked beans, macaroni and cheese, salad, and bread.
 
 ### Gift Registries
