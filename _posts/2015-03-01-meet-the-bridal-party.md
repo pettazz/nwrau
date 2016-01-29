@@ -37,13 +37,14 @@ Abby and Wendy are identical twins. Abby is older by one minute. Abby lives in U
 Nick and Scott have been friends since kindergarten. Scott lives in Framingham, Massachusetts with his wife, Rachel and their dog, Jack. Scott is a pharmacist.
 
 
-##Carolyn O'Shaughnessy
+##Kate Bechert
 
 ####Bridesmaid
 
-![Carolyn O'Shaughnessy](/assets/images/bridal-party/carolyn.jpg)
+![Kate Bechert](/assets/images/bridal-party/kate.jpg)
 
-Carolyn is Wendy's oldest sister. Carolyn lives in Minneapolis, Minnesota with her husband, Blake. Carolyn is an RN.
+
+Kate is Wendy's cousin. Kate lives in Bristol, Connecticut and works in a radiology office and is currently working towards a degree in nursing. 
 
 
 ##Chris Wayne
@@ -56,14 +57,13 @@ Carolyn is Wendy's oldest sister. Carolyn lives in Minneapolis, Minnesota with h
 Nick and Chris have been friends since college. Chris lives in Dover, New Hampshire with his wife, Christina. Chris works at Canonical, the firm behind Ubuntu.
 
 
-##Kate Bechert
+##Carolyn O'Shaughnessy
 
 ####Bridesmaid
 
-![Kate Bechert](/assets/images/bridal-party/kate.jpg)
+![Carolyn O'Shaughnessy](/assets/images/bridal-party/carolyn.jpg)
 
-
-Kate is Wendy's cousin. Kate lives in Bristol, Connecticut and works in a radiology office and is currently working towards a degree in nursing. 
+Carolyn is Wendy's oldest sister. Carolyn lives in Minneapolis, Minnesota with her husband, Blake. Carolyn is an RN.
 
 
 ##Nick Pettazzoni
