@@ -15,7 +15,7 @@ show_categories: false
 
 ## New Orleans, LA
 
-We are going to start our honeymoon off by spending a few night in the French Quarter.
+We are going to start our honeymoon off by spending a few nights in the French Quarter.
 
 
 ## Western Caribbean Cruise
