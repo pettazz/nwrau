@@ -12,7 +12,7 @@ thumb: /assets/images/thumbnails/accommodations.jpg
 
 We've reserved blocks of rooms at the [Holiday Inn Express & Suites in Westfield, MA](http://hiexpress.com/westfieldma) ([413-564-6900](tel:413-564-6900)) and at the [Quality Inn in Westfield, MA](http://www.qualityinnwestfield.com/) ([413-568-2821](tel:413-568-2821)).
 
-# Holiday Inn Express & Suites
+### Holiday Inn Express & Suites
 
 A full hot continental breakfast is included with all stays along with a heated indoor pool, fitness center, 24 hour business center, and free wifi throughout the hotel.
 
@@ -22,7 +22,7 @@ The rooms that are available: single king rooms, double queen (2 queen beds), an
 
 Reservations may be made by calling the front desk [(413) 564-6900](tel:413-564-6900) or booking online at [http://hiexpressonline.com/westfieldma](http://hiexpressonline.com/westfieldma). Enter the group code, BRW, online at the time of booking, or just mention you're with the Bechert/Rau wedding if you're booking over the phone. 
 
-# Quality Inn
+### Quality Inn
 
 The Quality Inn includes free wifi throughout the hotel, and pool.
 
