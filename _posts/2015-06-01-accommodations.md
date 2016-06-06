@@ -16,7 +16,7 @@ We've reserved blocks of rooms at the [Holiday Inn Express & Suites in Westfield
 
 A full hot continental breakfast is included with all stays along with a heated indoor pool, fitness center, 24 hour business center, and free wifi throughout the hotel.
 
-For the weekend of the wedding, we've received a discounted rate of $140.00 plus tax for standard rooms and $150.00 plus tax for suites. To receive the discounted, group rate, you must book a room/suite prior to July 27, 2016. There is a two-night minimum stay required. 
+For the weekend of the wedding, we've received a discounted rate of $140.00 plus tax for standard rooms and $150.00 plus tax for suites. To receive the discounted, group rate, you must book a room/suite prior to July 27, 2016. **There is a two-night minimum stay required.** 
 
 The rooms that are available: single king rooms, double queen (2 queen beds), and suites (2 queen beds, pull out sofa, microwave, and mini-fridge). 
 
@@ -26,7 +26,7 @@ Reservations may be made by calling the front desk [(413) 564-6900](tel:413-564-
 
 The Quality Inn includes free wifi throughout the hotel, and pool.
 
-For the weekend of the wedding, we've received a discounted rate of $119.95 plus tax per room. To receive the discounted, group rate, you must book a room/suite prior to August 12, 2016.
+For the weekend of the wedding, we've received a discounted rate of $119.95 plus tax per room. To receive the discounted, group rate, you must book a room/suite prior to August 12, 2016. **There is no minimum stay required.**
 
 Available rooms are double queen (2 queen beds).
 
