@@ -38,6 +38,6 @@ You can pitch a tent at Noble View!
 
 Tent camping is permitted in Saunders Corners at the north end of the Link Trail in the clearing south of the Double Cottage.
 
-We have booked all of Noble for our wedding weekend, so you don't have to contact Noble View to make reservations - we just ask that you send us an email at <a href="mailto:wedding@nwrau.com">wedding@nwrau.com</a> and let us know your intent to camp, just so we have an idea on numbers.
+We have booked all of Noble View for our wedding weekend, so you don't have to contact Noble View to make reservations - we just ask that you send us an email at <a href="mailto:wedding@nwrau.com">wedding@nwrau.com</a> and let us know your intent to camp, just so we have an idea on numbers.
 
 All campers are welcome to start arriving at noon on Saturday!
