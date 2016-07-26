@@ -41,3 +41,12 @@ Tent camping is permitted in Saunders Corners at the north end of the Link Trail
 We have booked all of Noble View for our wedding weekend, so you don't have to contact Noble View to make reservations - we just ask that you send us an email at <a href="mailto:wedding@nwrau.com">wedding@nwrau.com</a> and let us know your intent to camp, just so we have an idea on numbers.
 
 All campers are welcome to start arriving at noon on Saturday!
+
+## Transportation
+
+We will have school bus transportation to and from Noble for the wedding!
+
+The bus will arrive at the Holiday Inn Express & Suites at 2:00pm on Saturday and depart at 2:15pm. It will then depart for the Quality Inn, arriving around 2:20pm on Saturday.
+At 2:35pm the bus will depart from the Quality Inn for Noble View.
+
+The bus will make two return trips on Saturday night, at 9:00 pm and at 10:00pm, stopping at both hotels.
