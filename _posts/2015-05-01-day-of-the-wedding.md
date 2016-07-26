@@ -18,7 +18,7 @@ There is ample parking at Noble View. From the parking lot it is a short walk to
     <dt>3:45 PM</dt>
     <dd>Cocktail Hour</dd>
 
-    <dt>4:45 PM</dt>
+    <dt>5:00 PM</dt>
     <dd>Dinner</dd>
 
     <dt>6:00 PM</dt>
@@ -29,6 +29,8 @@ There is ample parking at Noble View. From the parking lot it is a short walk to
 </dl>
 
 Dinner will be a delicious BBQ buffet, consisting of a pig roast, BBQ chicken, roasted potatoes, baked beans, macaroni and cheese, salad, and bread.
+
+We will have bus transportation to and from the wedding as well, there are more details on the next page.
 
 ### Gift Registries
 
