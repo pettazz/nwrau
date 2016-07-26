@@ -44,7 +44,7 @@ All campers are welcome to start arriving at noon on Saturday!
 
 ## Transportation
 
-We will have school bus transportation to and from Noble for the wedding!
+We will have school bus transportation to and from Noble View for the wedding!
 
 The bus will arrive at the Holiday Inn Express & Suites at 2:00pm on Saturday and depart at 2:15pm. It will then depart for the Quality Inn, arriving around 2:20pm on Saturday.
 At 2:35pm the bus will depart from the Quality Inn for Noble View.
