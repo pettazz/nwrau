@@ -10,36 +10,36 @@ backgrounds:
 thumb: /assets/images/thumbnails/bridal-party.jpg
 ---
 
-##RJ Paquet
+## RJ Paquet
 
-####Officiant
+#### Officiant
 
 ![RJ Paquet](/assets/images/bridal-party/rj.jpg)
 
 RJ and Wendy have been friends since they were little. They grew up on Dunne Wood Court together and have remained life-long friends. RJ lives in Edmund, Oklahoma with his dog, Jake. RJ works in finance.  
 
 
-##Abigail Bechert
+## Abigail Bechert
 
-####Maid of Honor
+#### Maid of Honor
 
 ![Abigail Bechert](/assets/images/bridal-party/abby.jpg)
 
 Abby and Wendy are identical twins. Abby is older by one minute. Abby lives in Unionville, CT and is currently working towards a degree in nursing while working at a hospital. 
 
 
-##Scott Bacon
+## Scott Bacon
 
-####Best Man
+#### Best Man
 
 ![Scott Bacon](/assets/images/bridal-party/scott.jpg)
 
 Nick and Scott have been friends since kindergarten. Scott lives in Framingham, Massachusetts with his wife, Rachel and their dog, Jack. Scott is a pharmacist.
 
 
-##Kate Bechert
+## Kate Bechert
 
-####Bridesmaid
+#### Bridesmaid
 
 ![Kate Bechert](/assets/images/bridal-party/kate.jpg)
 
@@ -47,9 +47,9 @@ Nick and Scott have been friends since kindergarten. Scott lives in Framingham, 
 Kate is Wendy's cousin. Kate lives in Bristol, Connecticut and works in a radiology office and is currently working towards a degree in nursing. 
 
 
-##Chris Wayne
+## Chris Wayne
 
-####Groomsman
+#### Groomsman
 
 ![Chris Wayne](/assets/images/bridal-party/chris.jpg)
 
@@ -57,18 +57,18 @@ Kate is Wendy's cousin. Kate lives in Bristol, Connecticut and works in a radiol
 Nick and Chris have been friends since college. Chris lives in Dover, New Hampshire with his wife, Christina. Chris works at Canonical, the firm behind Ubuntu.
 
 
-##Carolyn O'Shaughnessy
+## Carolyn O'Shaughnessy
 
-####Bridesmaid
+#### Bridesmaid
 
 ![Carolyn O'Shaughnessy](/assets/images/bridal-party/carolyn.jpg)
 
 Carolyn is Wendy's oldest sister. Carolyn lives in Minneapolis, Minnesota with her husband, Blake. Carolyn is an RN.
 
 
-##Nick Pettazzoni
+## Nick Pettazzoni
 
-####Groomsman
+#### Groomsman
 
 ![Nick Pettazzoni](/assets/images/bridal-party/nick_pope.jpg)
 
@@ -76,9 +76,9 @@ Carolyn is Wendy's oldest sister. Carolyn lives in Minneapolis, Minnesota with h
 Nick and Nick have been friends since middle school. Nick lives in Somerville, Massachusetts and is a software developer. 
 
 
-##Molly Bechert
+## Molly Bechert
 
-####Bridesmaid
+#### Bridesmaid
 
 ![Molly Bechert](/assets/images/bridal-party/molly.jpg)
 
@@ -86,9 +86,9 @@ Nick and Nick have been friends since middle school. Nick lives in Somerville, M
 Molly is Wendy's older sister. Molly lives in San Sebastian, Spain with her husband, Jon and their son, Xabier. Molly is an English to Spanish translator. 
 
 
-##Joe Rau
+## Joe Rau
 
-####Groomsman
+#### Groomsman
 
 ![Joe Rau](/assets/images/bridal-party/joe.jpg)
 
@@ -96,9 +96,9 @@ Molly is Wendy's older sister. Molly lives in San Sebastian, Spain with her husb
 Joe is Nick's younger brother. Joe is a mechanical engineer living in the Worcester, Massachusetts area.
 
 
-##Jaclyn Rosenlund
+## Jaclyn Rosenlund
 
-####Bridesmaid
+#### Bridesmaid
 
 ![Jaclyn Rosenlund](/assets/images/bridal-party/jackie.jpg)
 
@@ -106,9 +106,9 @@ Joe is Nick's younger brother. Joe is a mechanical engineer living in the Worces
 Jackie is Wendy's best friend. Jackie lives in Worcester, Massachusetts and works at a crowd funding start-up in Providence, Rhode Island.  
 
 
-##Derek Rau
+## Derek Rau
 
-####Groomsman
+#### Groomsman
 
 ![Derek Rau](/assets/images/bridal-party/derek.jpg)
 
@@ -116,9 +116,9 @@ Jackie is Wendy's best friend. Jackie lives in Worcester, Massachusetts and work
 Derek is Nick's youngest brother. Derek is a biomedical engineer living in the Philadelphia, Pennsylvania area.
 
 
-##Xabier Aranburu Bechert
+## Xabier Aranburu Bechert
 
-####Ring Bearer
+#### Ring Bearer
 
 ![Xabier Aranburu Bechert](/assets/images/bridal-party/xabi.jpg)
 
